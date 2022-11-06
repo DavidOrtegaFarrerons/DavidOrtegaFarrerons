@@ -23,6 +23,3 @@ At the moment I am learning more about algorithms by reading [The Algorithm Desi
 
 ## 📫 Connect with me
 - LinkedIn - [David Ortega](https://www.linkedin.com/in/david-ortega-farrerons/)
-
----
-⭐️ From [gc-codes](https://github.com/gc-codes)
