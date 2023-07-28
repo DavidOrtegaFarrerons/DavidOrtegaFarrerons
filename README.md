@@ -2,11 +2,10 @@
 Backend focused developer | Startup Grind Mataró member | VR enthusiast
 
 ## 🧐 About
-Hi! I am a Fullstack developer @ FISHHotels looking to learn more about design patterns, algorithms and microservices in the backend. I also love helping people to solve their problems and look for the best suitable solutions for each case.
+Hi! I am a Backend Developer @ DGTLS looking to learn more about design and architectural patterns. I also love helping people to solve their problems and look for the best suitable solutions for each case.
 
 ## ⚡ Technologies
-- Front-end development using **Angular**
-- Backend development using **PHP**
+- Backend development using **Symfony**/Pimcore
 - Learning **Node.js**
 
 ## ⏰ Projects
