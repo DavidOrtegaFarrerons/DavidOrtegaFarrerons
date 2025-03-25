@@ -6,8 +6,7 @@ Hi! I am a Backend Developer @ DGTLS looking to learn more about design and arch
 
 ## ⚡ Technologies
 - Backend development using **Symfony**/Pimcore
-- Learning **Python**
-- Interested in: **Node.js** **Go** **Rust**
+- Learning **Go**
 
 ## ⏰ Projects
 ### CodeCrafters HTTP Server
@@ -18,9 +17,6 @@ This is a copy of the basic commands of the linux WC command, in this case I saw
 
 ### Klendar
 Klendar is a software to let students track their grades in all their subjects, customized for spanish vocational training courses.
-
-## 📚 What I am reading
-At the moment I am learning more about algorithms by reading [The Algorithm Design Manual](https://www.amazon.es/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)
 
 ## 📫 Connect with me
 - LinkedIn - [David Ortega](https://www.linkedin.com/in/david-ortega-farrerons/)
